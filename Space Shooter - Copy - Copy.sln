@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Shooter - Copy - Copy", "Assembly-CSharp.csproj", "{15C6BF18-508A-EFD2-226D-C8CA8B0039CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{15C6BF18-508A-EFD2-226D-C8CA8B0039CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Shooter - Copy - Copy", "Assembly-CSharp-Editor.csproj", "{7059052B-82B7-0E17-C7D8-8B745DB8E41B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{7059052B-82B7-0E17-C7D8-8B745DB8E41B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
