@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//code used when useing the touch movement control scheme on android touch devices
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

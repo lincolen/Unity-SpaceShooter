@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//this code handeles fire control on android touch devices
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

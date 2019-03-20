@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//script controlling the downward movement of enemys and obsticles, the range of enemy movment speed increses as the player progresses through enemy waves
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

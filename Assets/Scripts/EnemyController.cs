@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//code controling enemy fire, enemy movement is handled in EnemyManuver
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

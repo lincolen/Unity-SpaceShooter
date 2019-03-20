@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//code used to add rotation to the obstecles
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

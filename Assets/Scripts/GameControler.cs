@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//This is the game controller it handeles the game opration such as enemy spawning, gameover, updating and displaying the score, 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -20,6 +21,18 @@ public class GameControler : MonoBehaviour {
 	public GameObject scoreBoard;
 	public LedearBoard lb;
 	public GameObject pauseArea;
+
+	private void Awake()
+	{
+		//Set screen size for Standalone
+		#if UNITY_STANDALONE
+		Screen.SetResolution(600, 900, false);
+		Screen.fullScreen = false;
+		#endif
+
+
+
+	}
 
 	void Start()
 	{
