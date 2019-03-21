@@ -37,7 +37,7 @@ Options: can be accessed by pausing the game
 Volume Slider: adjust the game master volume
 Android Controls: choose which android control configuration to use
 Reset Scoreboard: resets the score borad to its initial state and remove all previous high scores
-Quit: Closes the 
+Quit: Closes the application
 
 ## Built With
 * [Unity](https://unity.com/) - Game Engine
