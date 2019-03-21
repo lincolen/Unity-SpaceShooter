@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//this code controls enemy movement
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

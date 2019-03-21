@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//code for destroying objects upon leaving the play field
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

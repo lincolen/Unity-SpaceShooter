@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//this code controls the movement of the background layer
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

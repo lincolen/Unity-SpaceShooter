@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//code for destroying objects on impact
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

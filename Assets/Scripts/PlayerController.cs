@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//This code controls the player ship
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,13 +7,13 @@ using UnityEngine.UI;
 [System.Serializable]
 public class Boundry
 {
-	public float xMin, xMax, zMin, zMax;
+	public float xMin, xMax, zMin, zMax; //range the player is alowed to move in
 }
 
 public class PlayerController : MonoBehaviour {
 	private Rigidbody rb;
 	public float speed;
-	public float tilt;
+	public float tilt; 
 	public Boundry boundry;
 	public GameObject shot;
 	public Transform shotspwan;
@@ -46,7 +47,7 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//key bored open screen fire command
+		//keyborad open screen fire command
 		//	if (Input.GetButton ("Fire1") && Time.time > nextFire) {  
 
 		if ((fireAreaButton.getFire() || Input.GetButton ("Fire1")) && Time.time > nextFire) {
